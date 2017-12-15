@@ -169,6 +169,6 @@ to create **spiffs image** in *build* directory and **flash** it to ESP32
 
 ---
 
-Tested on Waveshare 2.9" ePaper module connected to SparkFun ESP32 Thing board.
+Tested on Waveshare 1.54" ePaper module connected to SparkFun ESP32 Thing board.
 ![image](https://github.com/LilyGO/TTGO-T5-ePaper1.54/blob/master/Documents/image1.jpg)
 ![image](https://github.com/LilyGO/TTGO-T5-ePaper1.54/blob/master/Documents/image2.jpg)
