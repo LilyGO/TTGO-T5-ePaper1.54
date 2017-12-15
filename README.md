@@ -170,12 +170,5 @@ to create **spiffs image** in *build* directory and **flash** it to ESP32
 ---
 
 Tested on Waveshare 2.9" ePaper module connected to SparkFun ESP32 Thing board.
-![Tested on](https://raw.githubusercontent.com/loboris/ESP32_ePaper_example/master/Documents/2.9inch-e-paper-module-4.jpg)
-
----
-
-![Fonts](https://raw.githubusercontent.com/loboris/ESP32_ePaper_example/master/Documents/EPD-fonts.jpg)
-![Rotated](https://raw.githubusercontent.com/loboris/ESP32_ePaper_example/master/Documents/EPD-Rotated.jpg)
-![7-segFont](https://raw.githubusercontent.com/loboris/ESP32_ePaper_example/master/Documents/EPD-7sef_font.jpg)
-![Grayscale](https://raw.githubusercontent.com/loboris/ESP32_ePaper_example/master/Documents/EPD_Grayscale.jpg)
-![No power](https://raw.githubusercontent.com/loboris/ESP32_ePaper_example/master/Documents/EPD-No_power.jpg)
+![image](https://github.com/LilyGO/TTGO-T5-ePaper1.54/blob/master/Documents/image1.jpg)
+![image](https://github.com/LilyGO/TTGO-T5-ePaper1.54/blob/master/Documents/image2.jpg)
