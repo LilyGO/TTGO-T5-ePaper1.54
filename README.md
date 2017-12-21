@@ -107,9 +107,9 @@ To run the demo, attach display module to ESP32. Default pins used are:
 * mosi: 23
 *  sck: 18
 *   CS:  5 (display CS)
-*   DC: 26 (display DC)
+*   DC: 17 (display DC)
 *  RST: 27 (display RESET)
-* BUSY: 32 (display BUSY output)
+* BUSY: 4 (display BUSY output)
 
 The display can be powered from 3.3V or from **GPIO pin**. See *EPDspi.h* for configuration options.
 
