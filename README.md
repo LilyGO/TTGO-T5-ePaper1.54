@@ -1,10 +1,11 @@
 
+![image](https://github.com/LilyGO/TTGO-T5-ePaper1.54/blob/master/Image/T5V1.2.jpg)
 ![image](https://github.com/LilyGO/TTGO-T5-ePaper1.54/blob/master/Image/T5.jpg)
 ### ePaper library for ESP32
 
 ---
 
-SPI pinout and clock speed are modified for ePaper plus ESP32-ADB board
+
 
 https://www.tindie.com/products/microwavemont/epaper-plus-esp32-adb/
 
