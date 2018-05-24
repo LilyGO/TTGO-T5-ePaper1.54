@@ -25,8 +25,8 @@
 
 #define EPD2X9 1
 
-	#define xDot 200
-	#define yDot 200
+	#define xDot 128
+	#define yDot 296
 	#define DELAYTIME 1500
 
 static uint8_t GDOControl[] = {0x01, (yDot-1)%256, (yDot-1)/256, 0x00};

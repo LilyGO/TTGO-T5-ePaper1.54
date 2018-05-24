@@ -15,8 +15,8 @@
 #include <stdint.h>
 #include "spi_master_lobo.h"
 
-#define EPD_DISPLAY_WIDTH	200
-#define EPD_DISPLAY_HEIGHT	200
+#define EPD_DISPLAY_WIDTH	296
+#define EPD_DISPLAY_HEIGHT	128
 
 #define SCK_Pin		18
 #define MOSI_Pin	23
